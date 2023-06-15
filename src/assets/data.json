@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Premium Dog Food",
+      "description": "High-quality dog food with natural ingredients for optimal nutrition.",
+      "image_url": "dogfood.jpg",
+      "type": "Dog Food"
+    },
+    {
+      "id": 2,
+      "title": "Catnip Toy Set",
+      "description": "A set of interactive catnip toys to keep your feline friend entertained.",
+      "image_url": "catnip-toys.jpg",
+      "type": "Cat Toy"
+    },
+    {
+      "id": 3,
+      "title": "Dog Leash",
+      "description": "A durable and comfortable leash for walking your dog.",
+      "image_url": "dog-leash.jpg",
+      "type": "Dog Accessory"
+    },
+    {
+      "id": 4,
+      "title": "Self-Cleaning Cat Litter Box",
+      "description": "An innovative self-cleaning litter box for hassle-free maintenance.",
+      "image_url": "self-cleaning-litter-box.jpg",
+      "type": "Cat Accessory"
+    },
+    {
+      "id": 5,
+      "title": "Dog Chew Toy",
+      "description": "A long-lasting chew toy to satisfy your dog's natural urge to chew.",
+      "image_url": "dog-chew-toy.jpg",
+      "type": "Dog Toy"
+    },
+    {
+      "id": 6,
+      "title": "Cat Scratching Post",
+      "description": "A sturdy scratching post for cats to keep their claws healthy and engage in natural scratching behavior.",
+      "image_url": "cat-scratching-post.jpg",
+      "type": "Cat Accessory"
+    },
+    {
+      "id": 7,
+      "title": "Pet Grooming Brush",
+      "description": "A high-quality grooming brush to keep your pet's coat clean and shiny.",
+      "image_url": "pet-grooming-brush.jpg",
+      "type": "Grooming Tool"
+    },
+    {
+      "id": 8,
+      "title": "Fish Tank Aquarium",
+      "description": "A beautiful fish tank aquarium with a filtration system for keeping fish as pets.",
+      "image_url": "fish-tank-aquarium.jpg",
+      "type": "Aquarium"
+    },
+    {
+      "id": 9,
+      "title": "Cat Treats Variety Pack",
+      "description": "A pack of delicious and healthy cat treats in different flavors.",
+      "image_url": "cat-treats.jpeg",
+      "type": "Cat Treat"
+    },
+    {
+      "id": 10,
+      "title": "Dog Bed",
+      "description": "A cozy and comfortable bed for your furry friend to rest and sleep.",
+      "image_url": "dog-bed.jpg",
+      "type": "Dog Accessory"
+    },
+    {
+      "id": 11,
+      "title": "Hamster Cage",
+      "description": "A spacious and secure cage for your pet hamster's habitat.",
+      "image_url": "hamster-cage.jpg",
+      "type": "Small Animal Cage"
+    },
+    {
+      "id": 12,
+      "title": "Bird Feeder",
+      "description": "A bird feeder to attract and feed colorful birds in your garden.",
+      "image_url": "bird-feeder.jpg",
+      "type": "Bird Accessory"
+    },
+    {
+      "id": 13,
+      "title": "Pet Carrier",
+      "description": "A comfortable and convenient carrier for transporting your pet safely.",
+      "image_url": "pet-carrier.jpg",
+      "type": "Pet Travel"
+    },
+    {
+      "id": 14,
+      "title": "Reptile Heat Lamp",
+      "description": "A heat lamp to provide the required warmth for reptiles in their terrarium.",
+      "image_url": "reptile-heat-lamp.jpg",
+      "type": "Reptile Accessory"
+    },
+    {
+      "id": 15,
+      "title": "Small Animal Chew Toy",
+      "description": "A chew toy for small animals to promote dental health and prevent boredom.",
+      "image_url": "small-animal-chew-toy.jpg",
+      "type": "Small Animal Toy"
+    },
+    {
+      "id": 16,
+      "title": "Dog Training Pads",
+      "description": "Absorbent training pads to aid in housebreaking and training puppies.",
+      "image_url": "dog-training-pads.jpg",
+      "type": "Dog Training"
+    },
+    {
+      "id": 17,
+      "title": "Cat Water Fountain",
+      "description": "A water fountain designed to provide a continuous flow of fresh water for your cat.",
+      "image_url": "cat-water-fountain.jpg",
+      "type": "Cat Accessory"
+    },
+    {
+      "id": 18,
+      "title": "Turtle Food",
+      "description": "Nutritious food specifically formulated for turtles and tortoises.",
+      "image_url": "turtle-food.jpg",
+      "type": "Reptile Food"
+    },
+    {
+      "id": 19,
+      "title": "Dog Treat Puzzle Toy",
+      "description": "A puzzle toy that dispenses treats, keeping your dog mentally stimulated.",
+      "image_url": "dog-treat-puzzle-toy.jpg",
+      "type": "Dog Toy"
+    },
+    {
+      "id": 20,
+      "title": "Cat Collar with Bell",
+      "description": "A collar with a bell to help locate and keep track of your cat's whereabouts.",
+      "image_url": "cat-collar.jpg",
+      "type": "Cat Accessory"
+    }
+  ] 
+}
